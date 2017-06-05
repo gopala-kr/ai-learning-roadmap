@@ -233,4 +233,6 @@ Cognitive Services (Defining Intelligence)
   * <Your Path>\bot-education\Student-Resources\BOTs\Node\bot-recognizers
 
 
-![awesome](http://i.imgur.com/qcroMhk.gif)
+**Papers**
+
+* [A Roadmap towards Machine Intelligence](https://arxiv.org/pdf/1511.08130.pdf)
