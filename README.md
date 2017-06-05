@@ -1,5 +1,5 @@
 
->   Lists of all AI related learning material and practical tools to get started with AI apps
+>   Lists of all AI related learning materials and practical tools to get started with AI apps
 
 
 
