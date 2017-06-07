@@ -233,7 +233,7 @@ Cognitive Services (Defining Intelligence)
   * <Your Path>\bot-education\Student-Resources\BOTs\Node\bot-recognizers
 
 
-**Selected Research Papers**
+## Selected Research Papers
 
 * [A Roadmap towards Machine Intelligence](https://arxiv.org/pdf/1511.08130.pdf)
 * [Collaborative Filtering with Recurrent Neural Networks (2016)](https://www.semanticscholar.org/paper/Collaborative-Filtering-with-Recurrent-Neural-Devooght-Bersini/2bef60fb284440a7b28b2bbf48aca9ddf136dac6)
@@ -246,13 +246,12 @@ Cognitive Services (Defining Intelligence)
 * [Theano: A CPU and GPU math expression compiler.](http://www-etud.iro.umontreal.ca/~wardefar/publications/theano_scipy2010.pdf)
 * [Caffe: Convolutional architecture for fast feature embedding](https://arxiv.org/pdf/1408.5093.pdf)
 * [Chainer: A powerful, flexible and intuitive framework of neural networks](https://chainer.org/)
-* [An Introduction to Computational Networks and the Computational Network Toolkit](https://www.microsoft.com/en-us/research/publication/an-introduction-to-computational-networks-and-the-computational-network toolkit/?from=http%3A%2F%2Fresearch.microsoft.com%2Fapps%2Fpubs%2F%3Fid%3D226641#)
-* [Large Scale Distributed Deep Networks(https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
+* [Large Scale Distributed Deep Networks](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
 * [Large-scale video classification with convolutional neural networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf)
 * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 * [Grammar as a Foreign Language](https://arxiv.org/abs/1412.7449)
 * [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
-* [ON RECTIFIED LINEAR UNITS FOR SPEECH PROCESSING(https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40811.pdf)
+* [ON RECTIFIED LINEAR UNITS FOR SPEECH PROCESSING](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40811.pdf)
 * [Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups.](http://www.cs.toronto.edu/~gdahl/papers/deepSpeechReviewSPM2012.pdf)
 * [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1312.6082.pdf)
 * [oogle turning its lucrative web search over to AI machines](https://www.bloomberg.com/news/articles/2015-10-26/google-turning-its-lucrative-web-search-over-to-ai-machines)
