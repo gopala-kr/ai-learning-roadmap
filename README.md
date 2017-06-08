@@ -255,3 +255,5 @@ Cognitive Services (Defining Intelligence)
 * [Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups.](http://www.cs.toronto.edu/~gdahl/papers/deepSpeechReviewSPM2012.pdf)
 * [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1312.6082.pdf)
 * [google turning its lucrative web search over to AI machines](https://www.bloomberg.com/news/articles/2015-10-26/google-turning-its-lucrative-web-search-over-to-ai-machines)
+
+*[Stanford Syllabus CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)*
