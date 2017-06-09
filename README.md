@@ -257,3 +257,6 @@ Cognitive Services (Defining Intelligence)
 * [google turning its lucrative web search over to AI machines](https://www.bloomberg.com/news/articles/2015-10-26/google-turning-its-lucrative-web-search-over-to-ai-machines)
 
 *[Stanford Syllabus CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)*
+
+* [Crowd-Based Personalized Natural Language Explanations for Recommendations](http://dl.acm.org/citation.cfm?id=2959153)
+
