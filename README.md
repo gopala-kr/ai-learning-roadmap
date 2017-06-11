@@ -260,3 +260,5 @@ Cognitive Services (Defining Intelligence)
 
 * [Crowd-Based Personalized Natural Language Explanations for Recommendations](http://dl.acm.org/citation.cfm?id=2959153)
 
+[Comparative Study of Deep Learning Software
+Frameworks](https://arxiv.org/pdf/1511.06435.pdf)
