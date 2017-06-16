@@ -264,4 +264,4 @@ Cognitive Services (Defining Intelligence)
 Frameworks](https://arxiv.org/pdf/1511.06435.pdf)
 
 
-**[Reddit_ML- What Are You Reading(https://www.reddit.com/r/MachineLearning/comments/6gngwc/d_machine_learning_wayr_what_are_you_reading_week/)**
+** [Reddit_ML- What Are You Reading](https://www.reddit.com/r/MachineLearning/comments/6gngwc/d_machine_learning_wayr_what_are_you_reading_week/)**
