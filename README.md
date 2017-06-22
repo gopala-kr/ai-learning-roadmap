@@ -281,6 +281,7 @@ Source: http://www.asimovinstitute.org/neural-network-zoo/
 </p>
 
 <Enter>
+
 ### Microsoft Azure Algorithm Flowchart
 Source: https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet
 
@@ -289,6 +290,7 @@ Source: https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning
   <br/>
 </p>
 <Enter>
+
 ### SAS Algorithm Flowchart
 Source: http://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/
 
@@ -306,6 +308,7 @@ Source: http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
   <br/>
 </p>
 <Enter>
+
 Source: http://thinkbigdata.in/best-known-machine-learning-algorithms-infographic/
 
 <p align="center">
@@ -313,6 +316,7 @@ Source: http://thinkbigdata.in/best-known-machine-learning-algorithms-infographi
   <br/>
 </p>
 <Enter>
+
 ### Algorithm Pro/Con
 Source: https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend
 
@@ -322,6 +326,7 @@ Source: https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-
   <br/>
 </p>
 <Enter>
+
 ## Python
 
 ### Algorithms
@@ -332,6 +337,7 @@ Source: https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-lea
   <br/>
 </p>
 <Enter>
+
 ### Python Basics
 Source: http://datasciencefree.com/python.pdf
 
@@ -341,6 +347,7 @@ Source: http://datasciencefree.com/python.pdf
   <br/>
 </p>
 <Enter>
+
 Source: https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.0x1rxEA
 
 <p align="center">
@@ -348,6 +355,7 @@ Source: https://www.datacamp.com/community/tutorials/python-data-science-cheat-s
   <br/>
 </p>
 <Enter>
+
 ### Numpy
 Source: https://www.dataquest.io/blog/numpy-cheat-sheet/
 
@@ -356,6 +364,7 @@ Source: https://www.dataquest.io/blog/numpy-cheat-sheet/
   <br/>
 </p>
 <Enter>
+
 Source: http://datasciencefree.com/numpy.pdf
 
 <p align="center">
@@ -363,6 +372,7 @@ Source: http://datasciencefree.com/numpy.pdf
   <br/>
 </p>
 <Enter>
+
 Source: https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V6CE
 
 <p align="center">
@@ -388,6 +398,7 @@ Source: http://datasciencefree.com/pandas.pdf
   <br/>
 </p>
 <Enter>
+
 Source: https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.S4P4T=U
 
 <p align="center">
@@ -395,6 +406,7 @@ Source: https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.S4P
   <br/>
 </p>
 <Enter>
+
 Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas.ipynb
 
 
@@ -404,6 +416,7 @@ Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/maste
 </p>
 
 <Enter>
+
 ### Matplotlib
 Source: https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet
 
@@ -413,6 +426,7 @@ Source: https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet
 </p>
 
 <Enter>
+
 Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib.ipynb
 
 <p align="center">
@@ -421,6 +435,7 @@ Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/maste
 </p>
 
 <Enter>
+
 ### Scikit Learn
 Source: https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.fZ2A1Jk
 
@@ -430,6 +445,7 @@ Source: https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.fZ2A
 </p>
 
 <Enter>
+
 Source: http://peekaboo-vision.blogspot.de/2013/01/machine-learning-cheat-sheet-for-scikit.html
 
 
@@ -447,6 +463,7 @@ Source: https://github.com/rcompton/ml_cheat_sheet/blob/master/supervised_learni
   <br/>
 </p>
 <Enter>
+
 ### Tensorflow
 Source: https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/1_Introduction/basic_operations.ipynb
 
@@ -456,6 +473,7 @@ Source: https://github.com/aymericdamien/TensorFlow-Examples/blob/master/noteboo
 </p>
 
 <Enter>
+
 ### Pytorch
 Source: https://github.com/bfortuner/pytorch-cheatsheet
 
@@ -464,6 +482,7 @@ Source: https://github.com/bfortuner/pytorch-cheatsheet
   <br/>
 </p>
 <Enter>
+
 ## Math
 
 ### Probability
@@ -474,6 +493,7 @@ Source: http://www.wzchen.com/s/probability_cheatsheet.pdf
   <br/>
 </p>
 <Enter>
+
 ### Linear Algebra
 Source: https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
 
