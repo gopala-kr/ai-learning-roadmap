@@ -267,7 +267,9 @@ Frameworks](https://arxiv.org/pdf/1511.06435.pdf)
 
 * [AI-Powered Social Bots](https://arxiv.org/pdf/1706.05143v1.pdf)(16 Jun 2017)
 
-## ML/DL Cheatesheets
+<Enter>
+
+## ML/DL Cheatsheets
 
 ### Neural Network Architectures
 
@@ -278,7 +280,7 @@ Source: http://www.asimovinstitute.org/neural-network-zoo/
   <br/>
 </p>
 
-
+<Enter>
 ### Microsoft Azure Algorithm Flowchart
 Source: https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet
 
@@ -286,7 +288,7 @@ Source: https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning
   <img src="https://docs.microsoft.com/en-us/azure/machine-learning/media/machine-learning-algorithm-cheat-sheet/machine-learning-algorithm-cheat-sheet-small_v_0_6-01.png">
   <br/>
 </p>
-
+<Enter>
 ### SAS Algorithm Flowchart
 Source: http://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/
 
@@ -294,23 +296,23 @@ Source: http://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-lear
   <img src="http://blogs.sas.com/content/subconsciousmusings/files/2017/04/machine-learning-cheet-sheet.png">
   <br/>
 </p>
-
+<Enter>
 
 ### Algorithm Summary
 Source: http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
 
 <p align="center">
-  <img src="http://3qeqpr26caki16dnhd19sv6by6v.wpengine.netdna-cdn.com/wp-content/uploads/2013/11/Machine-Learning-Algorithms-Mindmap-Sample.png">
+  <img src="https://cdn-images-1.medium.com/max/800/1*xMwqdbPMm3l_1cOVHAUYcQ.png">
   <br/>
 </p>
-
+<Enter>
 Source: http://thinkbigdata.in/best-known-machine-learning-algorithms-infographic/
 
 <p align="center">
   <img src="http://thinkbigdata.in/wp-content/uploads/2016/04/Best_Machine_Learning_Algorithms.jpg">
   <br/>
 </p>
-
+<Enter>
 ### Algorithm Pro/Con
 Source: https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend
 
@@ -319,7 +321,7 @@ Source: https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-
   <img src="https://blog.dataiku.com/hs-fs/hubfs/Top%20Prediction%20Algorithms.jpg?t=1498140840312&width=684&height=968&name=Top%20Prediction%20Algorithms.jpg">
   <br/>
 </p>
-
+<Enter>
 ## Python
 
 ### Algorithms
@@ -329,7 +331,7 @@ Source: https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-lea
   <img src="https://www.analyticsvidhya.com/wp-content/uploads/2015/09/1.jpg">
   <br/>
 </p>
-
+<Enter>
 ### Python Basics
 Source: http://datasciencefree.com/python.pdf
 
@@ -338,14 +340,14 @@ Source: http://datasciencefree.com/python.pdf
   <img src="https://cdn-images-1.medium.com/max/800/1*L9O-gn244nJRMIi3RsDbag.png">
   <br/>
 </p>
-
+<Enter>
 Source: https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.0x1rxEA
 
 <p align="center">
   <img src="https://cdn-images-1.medium.com/max/800/1*2Z6_OZGupydHyEajtQE0Gg.png">
   <br/>
 </p>
-
+<Enter>
 ### Numpy
 Source: https://www.dataquest.io/blog/numpy-cheat-sheet/
 
@@ -353,14 +355,14 @@ Source: https://www.dataquest.io/blog/numpy-cheat-sheet/
   <img src="https://cdn-images-1.medium.com/max/800/1*A8KkRtC0V_jvvl1_W9Tqlg.png">
   <br/>
 </p>
-
+<Enter>
 Source: http://datasciencefree.com/numpy.pdf
 
 <p align="center">
   <img src="https://cdn-images-1.medium.com/max/800/1*pHJR1yXNHnLk3ESgGAFfNg.png">
   <br/>
 </p>
-
+<Enter>
 Source: https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V6CE
 
 <p align="center">
@@ -368,7 +370,7 @@ Source: https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V
   <br/>
 </p>
 
-
+<Enter>
 
 Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb
 
@@ -376,7 +378,7 @@ Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/maste
   <img src="https://cdn-images-1.medium.com/max/800/1*8qD6nI16gYhRiGZZ3SJCuA.png">
   <br/>
 </p>
-
+<Enter>
 
 ### Pandas
 Source: http://datasciencefree.com/pandas.pdf
@@ -385,14 +387,14 @@ Source: http://datasciencefree.com/pandas.pdf
   <img src="https://cdn-images-1.medium.com/max/800/1*TsIzQI5WgXe523rReAmioQ.png">
   <br/>
 </p>
-
+<Enter>
 Source: https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.S4P4T=U
 
 <p align="center">
   <img src="https://cdn-images-1.medium.com/max/800/1*Sn-9QZAgsITTRxahIA0bVg.png">
   <br/>
 </p>
-
+<Enter>
 Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas.ipynb
 
 
@@ -401,7 +403,7 @@ Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/maste
   <br/>
 </p>
 
-
+<Enter>
 ### Matplotlib
 Source: https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet
 
@@ -410,7 +412,7 @@ Source: https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet
   <br/>
 </p>
 
-
+<Enter>
 Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib.ipynb
 
 <p align="center">
@@ -418,7 +420,7 @@ Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/maste
   <br/>
 </p>
 
-
+<Enter>
 ### Scikit Learn
 Source: https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.fZ2A1Jk
 
@@ -427,7 +429,7 @@ Source: https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.fZ2A
   <br/>
 </p>
 
-
+<Enter>
 Source: http://peekaboo-vision.blogspot.de/2013/01/machine-learning-cheat-sheet-for-scikit.html
 
 
@@ -436,13 +438,15 @@ Source: http://peekaboo-vision.blogspot.de/2013/01/machine-learning-cheat-sheet-
   <br/>
 </p>
 
+<Enter>
+
 Source: https://github.com/rcompton/ml_cheat_sheet/blob/master/supervised_learning.ipynb
 
 <p align="center">
   <img src="https://cdn-images-1.medium.com/max/800/1*S84WJ6WyCHUEEr9iFOXa6w.png">
   <br/>
 </p>
-
+<Enter>
 ### Tensorflow
 Source: https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/1_Introduction/basic_operations.ipynb
 
@@ -451,7 +455,7 @@ Source: https://github.com/aymericdamien/TensorFlow-Examples/blob/master/noteboo
   <br/>
 </p>
 
-
+<Enter>
 ### Pytorch
 Source: https://github.com/bfortuner/pytorch-cheatsheet
 
@@ -459,7 +463,7 @@ Source: https://github.com/bfortuner/pytorch-cheatsheet
   <img src="https://cdn-images-1.medium.com/max/800/1*52LeYwCUN9G6MvACLcXRJw.png">
   <br/>
 </p>
-
+<Enter>
 ## Math
 
 ### Probability
@@ -469,7 +473,7 @@ Source: http://www.wzchen.com/s/probability_cheatsheet.pdf
   <img src="https://cdn-images-1.medium.com/max/800/1*wAXVlse7LpdKZLpj6DHF2A.png">
   <br/>
 </p>
-
+<Enter>
 ### Linear Algebra
 Source: https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
 
@@ -479,6 +483,7 @@ Source: https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
   <br/>
 </p>
 
+<Enter>
 
 ### Statistics
 Source: http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
@@ -488,6 +493,7 @@ Source: http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
   <br/>
 </p>
 
+<Enter>
 
 ### Calculus
 Source: http://tutorial.math.lamar.edu/getfile.aspx?file=B,41,N
@@ -497,13 +503,11 @@ Source: http://tutorial.math.lamar.edu/getfile.aspx?file=B,41,N
   <br/>
 </p>
 
+<Enter>
+<Enter>
 
 
 
-
-
-
-Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas.ipynb
 
 
 
