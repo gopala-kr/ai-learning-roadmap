@@ -266,3 +266,10 @@ Frameworks](https://arxiv.org/pdf/1511.06435.pdf)
 ** [Reddit_ML- What Are You Reading](https://www.reddit.com/r/MachineLearning/comments/6gngwc/d_machine_learning_wayr_what_are_you_reading_week/)**
 
 * [AI-Powered Social Bots](https://arxiv.org/pdf/1706.05143v1.pdf)(16 Jun 2017)
+
+## ML/DL Cheatesheets
+
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/800/1*gccuMDV8fXjcvz1RSk4kgQ.png">
+  <br/>
+</p>
