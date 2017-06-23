@@ -244,7 +244,7 @@ Cognitive Services (Defining Intelligence)
   <script src="js/navigation.js"></script>
   <div id="content">
     <h3></h3>
-    <p> </p>
+    <p>Source Berkeley </p>
     <table align="center" border="1px" cellspacing="1" cellpadding="5" class="videos">
       <tbody>
         <tr><td class="lecture_number"></td><td class="lecture_title"><b>Lecture Title</b></td><td class="lecturer"><b>Lecturer</b></td><td><b class="notes">Semester</b></td></tr>
@@ -476,7 +476,7 @@ Cognitive Services (Defining Intelligence)
     <br/>
     <hr/>
     <br/>
-    <h3>Per-Semester Video Archive</h3>
+    <h3>Per-Semester Video Archive(Berkeley)</h3>
     <p>The lecture videos from the most recent offerings are posted below.</p>
     <p>
       <a href="#Spring2014">Spring 2014 Lecture Videos</a><br/>
