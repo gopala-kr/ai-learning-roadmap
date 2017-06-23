@@ -236,14 +236,16 @@ Cognitive Services (Defining Intelligence)
 
 <html>
 <head>
+
   <link rel="shortcut icon" href="images/pacman-favicon.ico" >
   <link rel="stylesheet" href="css/project.css" type="text/css" charset="utf-8">
   <link rel="stylesheet" href="css/navigation.css" type="text/css" charset="utf-8">
 </head>
 <body>
+
   <div id="content">
 
-    <p> We recommend watching the following set of lecture videos:</p>
+
     <table align="center" border="1px" cellspacing="1" cellpadding="5" class="videos">
       <tbody>
         <tr><td class="lecture_number"></td><td class="lecture_title"><b>Lecture Title</b></td><td class="lecturer"><b>Lecturer</b></td><td><b class="notes">Semester</b></td></tr>
@@ -476,7 +478,7 @@ Cognitive Services (Defining Intelligence)
     <hr/>
     <br/>
     <h3>Per-Semester Video Archive</h3>
-    <p>The lecture videos from the most recent offerings are posted below.</p>
+    <p>The lecture videos from the most recent offerings  are posted below.</p>
     <p>
       <a href="#Spring2014">Spring 2014 Lecture Videos</a><br/>
       <a href="#Fall2013">Fall 2013 Lecture Videos</a><br/>
@@ -1141,6 +1143,7 @@ Cognitive Services (Defining Intelligence)
 </body>
 </html>
 
+
 ## Lecture Slides
 <html>
 <head>
@@ -1181,7 +1184,7 @@ Cognitive Services (Defining Intelligence)
         <li><a href="slides/Lecture 26 -- Conclusion/SP14 CS188 Lecture 26 -- Conclusion.pptx">Lecture 26: Conclusion</a></li>
       </ul>
     </p>
-    <p>The source files for all live in-lecture demos are being prepared for release, stay tuned.</p>
+    <p>The source files for all live in-lecture demos are being prepared from Berkeley AI for release</p>
   </div>
 </body>
 </html>
