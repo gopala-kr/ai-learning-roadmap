@@ -232,6 +232,960 @@ Cognitive Services (Defining Intelligence)
 * Review and test in the emulator the “bot-recognizers” from
   * <Your Path>\bot-education\Student-Resources\BOTs\Node\bot-recognizers
 
+## Lecture Videos 
+
+<html>
+<head>
+  <link rel="shortcut icon" href="images/pacman-favicon.ico" >
+  <link rel="stylesheet" href="css/project.css" type="text/css" charset="utf-8">
+  <link rel="stylesheet" href="css/navigation.css" type="text/css" charset="utf-8">
+</head>
+<body>
+  <div id="content">
+
+    <p> We recommend watching the following set of lecture videos:</p>
+    <table align="center" border="1px" cellspacing="1" cellpadding="5" class="videos">
+      <tbody>
+        <tr><td class="lecture_number"></td><td class="lecture_title"><b>Lecture Title</b></td><td class="lecturer"><b>Lecturer</b></td><td><b class="notes">Semester</b></td></tr>
+        <tr>
+          <td>Lecture 1</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=J6PBD-wNEDs">Introduction</a></td>
+          <td>Dan Klein</td>
+          <td>Fall 2012</td>
+        </tr>
+        <tr>
+          <td>Lecture 2</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=afwPe_OqPX0">Uninformed Search</a></td>
+          <td>Dan Klein</td>
+          <td>Fall 2012</td>
+        </tr>
+        <tr>
+          <td>Lecture 3</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=OGcG4jSKOVA">Informed Search</a></td>
+          <td>Dan Klein</td>
+          <td>Fall 2012</td>
+        </tr>
+        <tr>
+          <td>Lecture 4</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=hegL0V4ckco">Constraint Satisfaction Problems I</a></td>
+          <td>Dan Klein</td>
+          <td>Fall 2012</td>
+        </tr>
+        <tr>
+          <td>Lecture 5</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=LajAWn51HmE">Constraint Satisfaction Problems II</a></td>
+          <td>Dan Klein</td>
+          <td>Fall 2012</td>
+        </tr>
+        <tr>
+          <td>Lecture 6</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=cwbjLIahbv8">Adversarial Search</a></td>
+          <td>Dan Klein</td>
+          <td>Fall 2012</td>
+        </tr>
+        <tr>
+          <td>Lecture 7</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=GevK0-9n24g">Expectimax and Utilities</a></td>
+          <td>Dan Klein</td>
+          <td>Fall 2012</td>
+        </tr>
+        <tr>
+          <td>Lecture 8</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=wKx4MuLfe0M">Markov Decision Processes I</a></td>
+          <td>Dan Klein</td>
+          <td>Fall 2012</td>
+        </tr>
+        <tr>
+          <td>Lecture 9</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=2M7mv4-BPCg">Markov Decision Processes II</a></td>
+          <td>Dan Klein</td>
+          <td>Fall 2012</td>
+        </tr>
+        <tr>
+          <td>Lecture 10</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=hsz0zq6AXGE">Reinforcement Learning I</a></td>
+          <td>Dan Klein</td>
+          <td>Fall 2012</td>
+        </tr>
+        <tr>
+          <td>Lecture 11</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=R0vTZp0ve4s">Reinforcement Learning II</a></td>
+          <td>Dan Klein</td>
+          <td>Fall 2012</td>
+        </tr>
+        <tr>
+          <td>Lecture 12</td>
+          <td><a href="https://www.youtube.com/watch?v=cFtXkaLog5A">Probability</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Spring 2014</td>
+        </tr>
+        <tr>
+          <td>Lecture 13</td>
+          <td><a href="https://www.youtube.com/watch?v=Nxkapm7QlNw">Markov Models</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Spring 2014</td>
+        </tr>
+        <tr>
+          <td>Lecture 14</td>
+          <td><a href="https://www.youtube.com/watch?v=OdQoRGRPmj8">Hidden Markov Models</a></td>
+          <td>Dan Klein</td>
+          <td>Fall 2013</td>
+        </tr>
+        <tr>
+          <td>Lecture 15</td>
+          <td><a href="https://www.youtube.com/watch?v=KBg97801U40">Applications of HMMs / Speech</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Spring 2014</td>
+        </tr>
+        <tr>
+          <td>Lecture 16</td>
+          <td><a href="https://www.youtube.com/watch?v=gMQZq2O8yDA">Bayes' Nets: Representation</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Spring 2014</td>
+        </tr>
+        <tr>
+          <td>Lecture 17</td>
+          <td><a href="https://www.youtube.com/watch?v=9OajWBYRhRU">Bayes' Nets: Independence</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Spring 2014</td>
+        </tr>
+        <tr>
+          <td>Lecture 18</td>
+          <td><a href="https://www.youtube.com/watch?v=y9jdsPNsU_Q">Bayes' Nets: Inference</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Spring 2014</td>
+        </tr>
+        <tr>
+          <td>Lecture 19</td>
+          <td><a href="https://www.youtube.com/watch?v=ogYaTTRguIw">Bayes' Nets: Sampling</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Fall 2013</td>
+        </tr>
+        <tr>
+          <td>Lecture 20</td>
+          <td><a href="https://www.youtube.com/watch?v=VL_IAzfC2uk">Decision Diagrams / Value of Perfect Information</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Spring 2014</td>
+        </tr>
+        <tr>
+          <td>Lecture 21</td>
+          <td><a href="https://www.youtube.com/watch?v=_pe60buCnxE">Machine Learning: Naive Bayes</a></td>
+          <td>Nicholas Hay</td>
+          <td>Spring 2014</td>
+        </tr>
+        <tr>
+          <td>Lecture 22</td>
+          <td><a href="https://www.youtube.com/watch?v=HEFfs1KCph4">Machine Learning: Perceptrons</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Spring 2014</td>
+        </tr>
+        <tr>
+          <td>Lecture 23</td>
+          <td><a href="https://www.youtube.com/watch?v=H9DUTH9lCfg">Machine Learning: Kernels and Clustering</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Spring 2014</td>
+        </tr>
+        <tr>
+          <td>Lecture 24</td>
+          <td><a href="https://www.youtube.com/watch?v=sMKptCC-x_o">Advanced Applications: NLP, Games, and Robotic Cars</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Spring 2014</td>
+        </tr>
+        <tr>
+          <td>Lecture 25</td>
+          <td><a href="https://www.youtube.com/watch?v=WZqtZ8RDVs8">Advanced Applications: Computer Vision and Robotics</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Spring 2014</td>
+        </tr>
+      </tbody>
+    </table>
+    <p><a name="StepByStep"></a>Additionally, there are additional Step-By-Step videos which supplement the lecture's materials. These videos are listed below:</p>
+    <table align="center" border="1px" cellspacing="1" cellpadding="5" class="videos">
+      <tbody>
+        <tr><td class="lecture_number"></td><td class="lecture_title"><b>Lecture Title</b></td><td class="lecturer"><b>Lecturer</b></td><td><b class="notes">Notes</b></td></tr>
+        <tr>
+          <td>SBS-1</td>
+          <td><a href="https://www.youtube.com/watch?v=cXZKV7K5v3E">DFS and BFS</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Lec: Uninformed Search</td>
+        </tr>
+        <tr>
+          <td>SBS-2</td>
+          <td><a href="https://www.youtube.com/watch?v=g0MJRpquEOk">A* Search</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Lec: Informed Search</td>
+        </tr>
+        <tr>
+          <td>SBS-3</td>
+          <td><a href="https://www.youtube.com/watch?v=jvpWtwVSvjA">Alpha-Beta Pruning</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Lec: Adversarial Search</td>
+        </tr>
+        <tr>
+          <td>SBS-4</td>
+          <td><a href="https://www.youtube.com/watch?v=_R_RYn5KelA">D-Separation</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Lec: Bayes' Nets: Independence</td>
+        </tr>
+        <tr>
+          <td>SBS-5</td>
+          <td><a href="https://www.youtube.com/watch?v=-Y-XiO9VeLQ">Elimination of One Variable</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Lec: Bayes' Nets: Inference</td>
+        </tr>
+        <tr>
+          <td>SBS-6</td>
+          <td><a href="https://www.youtube.com/watch?v=4-Cr_Lv9Sr4">Variable Elimination</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Lec: Bayes' Nets: Inference</td>
+        </tr>
+        <tr>
+          <td>SBS-7</td>
+          <td><a href="https://www.youtube.com/watch?v=Q6NzkeUvj2I">Sampling</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Lec: Bayes' Nets: Sampling</td>
+        </tr>
+        <tr>
+<!--          <td>SBS-8</td>
+          <td><a href="https://www.youtube.com/watch?v=A8Jo6aQ8Lcg">Gibbs' Sampling</a></td>
+          <td>Michael Liang</td>
+          <td>Lec: Bayes' Nets: Sampling</td>
+        </tr>-->
+        <tr>
+          <td>SBS-8</td>
+          <td><a href="https://www.youtube.com/watch?v=b2g88r69vPI">Maximum Likelihood</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Lec: Machine Learning: Naive Bayes</td>
+        </tr>
+        <tr>
+          <td>SBS-9</td>
+          <td><a href="https://www.youtube.com/watch?v=VkBytl_Qmt8">Laplace Smoothing</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Lec: Machine Learning: Naive Bayes</td>
+        </tr>
+        <tr>
+          <td>SBS-10</td>
+          <td><a href="https://www.youtube.com/watch?v=mH4QSs5IGao">Perceptrons</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Lec: Machine Learning: Perceptrons</td>
+        </tr>
+      </tbody>
+    </table>
+    <br/>
+    <br/>
+    <hr/>
+    <br/>
+    <h3>Per-Semester Video Archive</h3>
+    <p>The lecture videos from the most recent offerings are posted below.</p>
+    <p>
+      <a href="#Spring2014">Spring 2014 Lecture Videos</a><br/>
+      <a href="#Fall2013">Fall 2013 Lecture Videos</a><br/>
+      <a href="#Spring2013">Spring 2013 Lecture Videos</a><br/>
+      <a href="#Fall2012">Fall 2012 Lecture Videos</a><br/>
+    </p>
+    <a name="Spring2014"></a><h4> Spring 2014 </h4>
+    <table align="center" border="1px" cellspacing="1" cellpadding="5" class="videos">
+      <tbody>
+        <tr><td class="lecture_number"></td><td class="lecture_title"><b>Lecture Title</b></td><td class="lecturer"><b>Lecturer</b></td><td><b class="notes">Notes</b></td></tr>
+        <tr>
+          <td>Lecture 1</td>
+          <td><a href="https://www.youtube.com/watch?v=W1S-HSakPTM">Introduction</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 2</td>
+          <td><a href="https://www.youtube.com/watch?v=bSv4CWMTeR0">Uninformed Search</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 3</td>
+          <td><a href="https://www.youtube.com/watch?v=8pTjoFiICg8">Informed Search</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 4</td>
+          <td><a href="https://www.youtube.com/watch?v=Hv_JlWld9iQ">Constraint Satisfaction Problems I</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Recording is a bit flaky, see Fall 2013 Lecture 4 for alternative</td>
+        </tr>
+        <tr>
+          <td>Lecture 5</td>
+          <td><a href="https://www.youtube.com/watch?v=kYVSOLX_t84">Constraint Satisfaction Problems II</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 6</td>
+          <td><a href="https://www.youtube.com/watch?v=1KTCoQRWKOE">Adversarial Search</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 7</td>
+          <td><a href="https://www.youtube.com/watch?v=jaFRyzp7yWw">Expectimax and Utilities</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 8</td>
+          <td><a href="https://www.youtube.com/watch?v=Oxqwwnm_x0s">Markov Decision Processes I</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 9</td>
+          <td><a href="https://www.youtube.com/watch?v=6pBvbLyn6fE">Markov Decision Processes II</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 10</td>
+          <td><a href="https://www.youtube.com/watch?v=IXuHxkpO5E8">Reinforcement Learning I</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 11</td>
+          <td><a href="https://www.youtube.com/watch?v=yNeSFbE1jdY">Reinforcement Learning II</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 12</td>
+          <td><a href="https://www.youtube.com/watch?v=cFtXkaLog5A">Probability</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 13</td>
+          <td><a href="https://www.youtube.com/watch?v=Nxkapm7QlNw">Markov Models</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 14</td>
+          <td><a href="https://www.youtube.com/watch?v=XFgdo4czYs4">Hidden Markov Models</a></td>
+          <td>Pieter Abbeel</td>
+          <td>Recording is a bit flaky, see Fall 2013 Lecture 18 for alternative</td>
+        </tr>
+        <tr>
+          <td>Lecture 15</td>
+          <td><a href="https://www.youtube.com/watch?v=KBg97801U40">Applications of HMMs / Speech</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 16</td>
+          <td><a href="https://www.youtube.com/watch?v=gMQZq2O8yDA">Bayes' Nets: Representation</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 17</td>
+          <td><a href="https://www.youtube.com/watch?v=9OajWBYRhRU">Bayes' Nets: Independence</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 18</td>
+          <td><a href="https://www.youtube.com/watch?v=y9jdsPNsU_Q">Bayes' Nets: Inference</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 19</td>
+          <td>Bayes' Nets: Sampling</td>
+          <td>Pieter Abbeel</td>
+          <td>Unrecorded, see Fall 2013 Lecture 16</td>
+        </tr>
+        <tr>
+          <td>Lecture 20</td>
+          <td><a href="https://www.youtube.com/watch?v=VL_IAzfC2uk">Decision Diagrams / Value of Perfect Information</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 21</td>
+          <td><a href="https://www.youtube.com/watch?v=_pe60buCnxE">Machine Learning: Naive Bayes</a></td>
+          <td>Nicholas Hay</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 22</td>
+          <td><a href="https://www.youtube.com/watch?v=HEFfs1KCph4">Machine Learning: Perceptrons</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 23</td>
+          <td><a href="https://www.youtube.com/watch?v=H9DUTH9lCfg">Machine Learning: Kernels and Clustering</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 24</td>
+          <td><a href="https://www.youtube.com/watch?v=sMKptCC-x_o">Advanced Applications: NLP, Games, and Robotic Cars</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 25</td>
+          <td><a href="https://www.youtube.com/watch?v=WZqtZ8RDVs8">Advanced Applications: Computer Vision and Robotics</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 26</td>
+          <td>Conclusion</td>
+          <td>Pieter Abbeel</td>
+          <td>Unrecorded</td>
+        </tr>
+      </tbody>
+    </table>
+    <br/><br/>
+    <a name="Fall2013"></a><h4> Fall 2013 </h4>
+    <table align="center" border="1px" cellspacing="1" cellpadding="5" class="videos">
+      <tbody>
+        <tr><td class="lecture_number"></td><td class="lecture_title"><b>Lecture Title</b></td><td class="lecturer"><b>Lecturer</b></td><td><b class="notes">Notes</b></td></tr>
+        <tr>
+          <td>Lecture 1</td>
+          <td><a href="https://www.youtube.com/watch?v=tONNlv6osG4">Introduction</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 2</td>
+          <td><a href="https://www.youtube.com/watch?v=y9YtT49fFlM">Uninformed Search</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 3</td>
+          <td><a href="https://www.youtube.com/watch?v=ka5KpaKDGF0">Informed Search</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 4</td>
+          <td><a href="https://www.youtube.com/watch?v=hJ9WOiueJes">Constraint Satisfaction Problems I</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 5</td>
+          <td><a href="https://www.youtube.com/watch?v=2TDQ_mesnOQ">Constraint Satisfaction Problems II</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 6</td>
+          <td><a href="https://www.youtube.com/watch?v=-Il2oJoItaI">Adversarial Search</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 7</td>
+          <td><a href="https://www.youtube.com/watch?v=M98BM_yJPNw">Expectimax and Utilities</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 8</td>
+          <td><a href="https://www.youtube.com/watch?v=ip4iSMRW5X4">Markov Decision Processes I</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 9</td>
+          <td><a href="https://www.youtube.com/watch?v=1S-dw6Vt1l4">Markov Decision Processes II</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 10</td>
+          <td><a href="https://www.youtube.com/watch?v=w33Lplx49_A">Reinforcement Learning I</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 11</td>
+          <td><a href="https://www.youtube.com/watch?v=jUoZg513cdE">Reinforcement Learning II</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 12</td>
+          <td><a href="https://www.youtube.com/watch?v=8rnIArZS9cI">Probability</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 13</td>
+          <td><a href="https://www.youtube.com/watch?v=VfyxPtlqZh4">Bayes' Nets: Representation</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 14</td>
+          <td><a href="https://www.youtube.com/watch?v=iaY3isLZUGs">Bayes' Nets: Independence</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 15</td>
+          <td><a href="https://www.youtube.com/watch?v=oYKAfYFmsoM">Bayes' Nets: Inference</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 16</td>
+          <td><a href="https://www.youtube.com/watch?v=ogYaTTRguIw">Bayes' Nets: Sampling</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 17</td>
+          <td><a href="https://www.youtube.com/watch?v=qQXmaWzmYuA">Decision Diagrams / Value of Perfect Information</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 18</td>
+          <td><a href="https://www.youtube.com/watch?v=OdQoRGRPmj8">Hidden Markov Models</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 19</td>
+          <td><a href="https://www.youtube.com/watch?v=e_nQkLZens8">Applications of HMMs / Speech</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 20</td>
+          <td><a href="https://www.youtube.com/watch?v=iA2nEXanP_o">Machine Learning: Naive Bayes</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 21</td>
+          <td><a href="https://www.youtube.com/watch?v=dXuNAkHsos4">Machine Learning: Perceptrons</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 22</td>
+          <td><a href="https://www.youtube.com/watch?v=eXEi46V12dA">Machine Learning: Kernels and Clustering</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 23</td>
+          <td><a href="https://www.youtube.com/watch?v=WC_DhP3vyy8">Machine Learning: Decision Trees and Neural Nets</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 24</td>
+          <td>Advanced Applications: NLP and Robotic Cars</td>
+          <td>Dan Klein</td>
+          <td>Unrecorded, see Spring 2013 Lecture 24</td>
+        </tr>
+        <tr>
+          <td>Lecture 25</td>
+          <td><a href="https://www.youtube.com/watch?v=OVgJPRSET30">Advanced Applications: Computer Vision and Robotics</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 26</td>
+          <td>Conclusion</td>
+          <td>Dan Klein,<br/>Pieter Abbeel</td>
+          <td>Unrecorded</td>
+        </tr>
+      </tbody>
+    </table>
+    <br/>
+    <a name="Spring2013"></a><h4> Spring 2013 </h4>
+    <table align="center" border="1px" cellspacing="1" cellpadding="5" class="videos">
+      <tbody>
+        <tr><td class="lecture_number"></td><td class="lecture_title"><b>Lecture Title</b></td><td class="lecturer"><b>Lecturer</b></td><td><b class="notes">Notes</b></td></tr>
+        <tr>
+          <td>Lecture 1</td>
+          <td>Introduction</td>
+          <td>Pieter Abbeel</td>
+          <td>Video Down</td>
+        </tr>
+        <tr>
+          <td>Lecture 2</td>
+          <td><a href="https://www.youtube.com/watch?v=ST--VJJJqoc">Uninformed Search</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 3</td>
+          <td><a href="https://www.youtube.com/watch?v=_oaqK0G_qKk">Informed Search</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 4</td>
+          <td><a href="https://www.youtube.com/watch?v=IbWL7CB15vw">Constraint Satisfaction Problems I</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 5</td>
+          <td>Constraint Satisfaction Problems II</td>
+          <td>Pieter Abbeel</td>
+          <td>Unrecorded, see Fall 2012 Lecture 5</td>
+        </tr>
+        <tr>
+          <td>Lecture 6</td>
+          <td><a href="https://www.youtube.com/watch?v=Nwl3LuG-fs8">Adversarial Search</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 7</td>
+          <td><a href="https://www.youtube.com/watch?v=r-RxPnnp__o">Expectimax and Utilities</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 8</td>
+          <td><a href="https://www.youtube.com/watch?v=i0o-ui1N35U">Markov Decision Processes I</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 9</td>
+          <td><a href="https://www.youtube.com/watch?v=Csiiv6WGzKM">Markov Decision Processes II</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 10</td>
+          <td><a href="https://www.youtube.com/watch?v=ifma8G7LegE">Reinforcement Learning I</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 11</td>
+          <td><a href="https://www.youtube.com/watch?v=Si1_YTw960c">Reinforcement Learning II</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 12</td>
+          <td><a href="https://www.youtube.com/watch?v=yRG6np3yC7c">Probability</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 13</td>
+          <td><a href="https://www.youtube.com/watch?v=uicA_yXW9LE">Bayes' Nets: Representation</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 14</td>
+          <td><a href="https://www.youtube.com/watch?v=Mg3nFk3hkDE">Bayes' Nets: Independence</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 15</td>
+          <td><a href="https://www.youtube.com/watch?v=_haafsCKsmY">Bayes' Nets: Inference</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 16</td>
+          <td><a href="https://www.youtube.com/watch?v=IqGbgfkkcsY">Bayes' Nets: Sampling</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 17</td>
+          <td><a href="https://www.youtube.com/watch?v=xia9VhcrMW0">Decision Diagrams / Value of Perfect Information</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 18</td>
+          <td><a href="https://www.youtube.com/watch?v=9dp4whVQv5s">Hidden Markov Models</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 19</td>
+          <td><a href="https://www.youtube.com/watch?v=Qh2hFKHOwPU">Applications of HMMs / Speech</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 20</td>
+          <td><a href="https://www.youtube.com/watch?v=DNvwfNEiKvw">Machine Learning: Naive Bayes</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 21</td>
+          <td><a href="https://www.youtube.com/watch?v=dyDdNtr9Q48">Machine Learning: Perceptrons I</a></td>
+          <td>Nicholas Hay</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 22</td>
+          <td><a href="https://www.youtube.com/watch?v=rlAGutu67T0">Machine Learning: Perceptrons II</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 23</td>
+          <td><a href="https://www.youtube.com/watch?v=ZSxvr282gBw">Machine Learning: Kernels and Clustering</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 24</td>
+          <td><a href="https://www.youtube.com/watch?v=AMcSRTsC15M">Advanced Applications: NLP and Robotic Cars</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 25</td>
+          <td><a href="https://www.youtube.com/watch?v=MeFpNzqjkQw">Advanced Applications: Computer Vision and Robotics</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 26</td>
+          <td>Conclusion</td>
+          <td>Pieter Abbeel</td>
+          <td>Unrecorded</td>
+        </tr>
+      </tbody>
+    </table>
+    <br/>
+    <a name="Fall2012"></a><h4> Fall 2012 </h4>
+    <table align="center" border="1px" cellspacing="1" cellpadding="5" class="videos">
+      <tbody>
+        <tr><td class="lecture_number"></td><td class="lecture_title"><b>Lecture Title</b></td><td class="lecturer"><b>Lecturer</b></td><td><b class="notes">Notes</b></td></tr>
+        <tr>
+          <td>Lecture 1</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=J6PBD-wNEDs">Introduction</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 2</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=afwPe_OqPX0">Uninformed Search</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 3</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=OGcG4jSKOVA">Informed Search</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 4</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=hegL0V4ckco">Constraint Satisfaction Problems I</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 5</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=LajAWn51HmE">Constraint Satisfaction Problems II</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 6</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=cwbjLIahbv8">Adversarial Search</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 7</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=GevK0-9n24g">Expectimax and Utilities</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 8</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=wKx4MuLfe0M">Markov Decision Processes I</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 9</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=2M7mv4-BPCg">Markov Decision Processes II</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 10</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=hsz0zq6AXGE">Reinforcement Learning I</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 11</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=R0vTZp0ve4s">Reinforcement Learning II</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 12</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=UIhbGihnZ68">Probability</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 13</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=04CITGEvGMw0">Bayes' Nets: Representation</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 14</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=GMge4cuYwZ8">Bayes' Nets: Independence</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 15</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=GgyH6Nbjdcw">Bayes' Nets: Inference</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 16</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=y1dpQlvJ5Ys">Bayes' Nets: Sampling</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 17</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=gp6-CH40ao8">Decision Diagrams / Value of Perfect Information</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 18</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=uSpiQFD67vQ">Hidden Markov Models</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 19</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=jcBY01U9czE">Applications of HMMs / Speech</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 20</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=HmCxjAeGt6U">Machine Learning: Naive Bayes</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 21</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=XP7TPZPGzuk">Machine Learning: Perceptrons</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 22</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=qJdgcwzMuB0">Machine Learning: Kernels and Clustering</a></td>
+          <td>Dan Klein</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 23</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=4LGh2HlyQZ4">Machine Learning: Decision Trees and Neural Nets</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 24</td>
+          <td><a href="https://www.youtube.com/watch?feature=player_embedded&v=POMk-X93Bag">Advanced Applications: Computer Vision and Robotics</a></td>
+          <td>Pieter Abbeel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Lecture 25</td>
+          <td>Advanced Applications: NLP and Robotic Cars</td>
+          <td>Dan Klein,<br/>Pieter Abbeel</td>
+          <td>Unrecorded</td>
+        </tr>
+        <tr>
+          <td>Lecture 26</td>
+          <td>Conclusion</td>
+          <td>Dan Klein,<br/>Pieter Abbeel</td>
+          <td>Unrecorded</td>
+        </tr>
+      </tbody>
+    </table>
+    <br/>
+    <br/>
+    <br/>
+  </div>
+</body>
+</html>
+
+## Lecture Slides
+<html>
+<head>
+  <link rel="shortcut icon" href="images/pacman-favicon.ico" >
+  <link rel="stylesheet" href="css/project.css" type="text/css" charset="utf-8">
+  <link rel="stylesheet" href="css/navigation.css" type="text/css" charset="utf-8">
+</head>
+<body>
+  <div id="content">
+    <p>Here is the complete set of lecture slides, including videos, and videos of demos run in lecture: <a href="Slides Lectures 1-26.tar.gz">Slides</a> [~3 GB].</p>
+    <p>The list below contains all the lecture powerpoint slides:
+      <ul>
+        <li><a href="slides/Lecture 1 -- Introduction/SP14 CS188 Lecture 1 -- Introduction.pptx">Lecture 1: Introduction</a></li>
+        <li><a href="slides/Lecture 2 -- Uninformed Search/SP14 CS188 Lecture 2 -- Uninformed Search.pptx">Lecture 2: Uninformed Search</a></li>
+        <li><a href="slides/Lecture 3 -- Informed Search/SP14 CS188 Lecture 3 -- Informed Search.pptx">Lecture 3: Informed Search</a></li>
+        <li><a href="slides/Lecture 4 -- CSPs I/SP14 CS188 Lecture 4 -- CSPs I.pptx">Lecture 4: CSPs I</a></li>
+        <li><a href="slides/Lecture 5 -- CSPs II/SP14 CS188 Lecture 5 -- CSPs II.pptx">Lecture 5: CSPs II</a></li>
+        <li><a href="slides/Lecture 6 -- Adversarial Search/SP14 CS188 Lecture 6 -- Adversarial Search.pptx">Lecture 6: Adversarial Search</a></li>
+        <li><a href="slides/Lecture 7 -- Expectimax Search and Utilities/SP14 CS188 Lecture 7 -- Expectimax Search and Utilities.pptx">Lecture 7: Expectimax Search and Utilities</a></li>
+        <li><a href="slides/Lecture 8 -- MDPs I/SP14 CS188 Lecture 8 -- MDPs I.pptx">Lecture 8: MDPs I</a></li>
+        <li><a href="slides/Lecture 9 -- MDPs II/SP14 CS188 Lecture 9 -- MDPs II.pptx">Lecture 9: MDPs II</a></li>
+        <li><a href="slides/Lecture 10 -- Reinforcement Learning I/SP14 CS188 Lecture 10 -- Reinforcement Learning I.pptx">Lecture 10: Reinforcement Learning I</a></li>
+        <li><a href="slides/Lecture 11 -- Reinforcement Learning II/SP14 CS188 Lecture 11 -- Reinforcement Learning II.pptx">Lecture 11: Reinforcement Learning II</a></li>
+        <li><a href="slides/Lecture 12 -- Probability/SP14 CS188 Lecture 12 -- Probability.pptx">Lecture 12: Probability</a></li>
+        <li><a href="slides/Lecture 13 -- Markov Models/SP14 CS188 Lecture 13 -- Markov Models.pptx">Lecture 13: Markov Models</a></li>
+        <li><a href="slides/Lecture 14 -- HMMs/SP14 CS188 Lecture 14 -- Hidden Markov Models.pptx">Lecture 14: Hidden Markov Models</a></li>
+        <li><a href="slides/Lecture 15 -- Particle Filters and Applications of HMMs/SP14 CS188 Lecture 15 -- Particle Filters and Applications of HMMs.pptx">Lecture 15: Particle Filters and Applications of HMMs</a></li>
+        <li><a href="slides/Lecture 16 -- Bayes Nets I Representation/SP14 CS188 Lecture 16 -- Bayes Nets.pptx">Lecture 16: Bayes Nets I: Representation</a></li>
+        <li><a href="slides/Lecture 17 -- Bayes Nets II Independence/SP14 CS188 Lecture 17 -- Bayes Nets II Independence.pptx">Lecture 17: Bayes Nets II: Independence</a></li>
+        <li><a href="slides/Lecture 18 -- Bayes Nets III Inference/SP14 cs188 Lecture 18 -- Bayes Nets III Inference.pptx">Lecture 18: Bayes Nets III: Inference</a></li>
+        <li><a href="slides/Lecture 19 -- Bayes Net IV Sampling/SP14 CS188 Lecture 19 -- Bayes Nets IV Sampling.pptx">Lecture 19: Bayes Nets IV: Sampling</a></li>
+        <li><a href="slides/Lecture 20 -- Decision Diagrams and Value of Perfect Information/SP14 CS188 Lecture 20 -- Decision Diagrams and VPI.pptx">Lecture 20: Decision Diagrams and VPI</a></li>
+        <li><a href="slides/Lecture 21 -- Naive Bayes/SP14 CS188 Lecture 21 -- Naive Bayes.pptx">Lecture 21: Naive Bayes</a></li>
+        <li><a href="slides/Lecture 22 -- Perceptron/SP14 CS188 Lecture 22 -- Perceptron.pptx">Lecture 22: Perceptron</a></li>
+        <li><a href="slides/Lecture 23 -- Kernels and Clustering/SP14 CS188 Lecture 23 -- Kernels and Clustering.pptx">Lecture 23: Kernels and Clustering</a></li>
+        <li><a href="slides/Lecture 24 -- Advanced Applications (NLP, Games, Cars)/SP14 CS188 Lecture 24 -- Advanced Applications (NLP, Games, Cars).pptx">Lecture 24: Advanced Applications (NLP, Games, Cars)</a></li>
+        <li><a href="slides/Lecture 25 -- Advanced Applications (Computer Vision, Robotics)/SP14 CS188 Lecture 25 -- Advanced Applications (Computer Vision and Robotics).pptx">Lecture 25: Advanced Applications (Computer Vision and Robotics)</a></li>
+        <li><a href="slides/Lecture 26 -- Conclusion/SP14 CS188 Lecture 26 -- Conclusion.pptx">Lecture 26: Conclusion</a></li>
+      </ul>
+    </p>
+    <p>The source files for all live in-lecture demos are being prepared for release, stay tuned.</p>
+  </div>
+</body>
+</html>
+
 
 ## Selected Research Papers
 
