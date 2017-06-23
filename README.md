@@ -233,19 +233,18 @@ Cognitive Services (Defining Intelligence)
   * <Your Path>\bot-education\Student-Resources\BOTs\Node\bot-recognizers
 
 ## Lecture Videos 
-
 <html>
 <head>
-
+  <title>Berkeley AI Materials</title>
   <link rel="shortcut icon" href="images/pacman-favicon.ico" >
   <link rel="stylesheet" href="css/project.css" type="text/css" charset="utf-8">
   <link rel="stylesheet" href="css/navigation.css" type="text/css" charset="utf-8">
 </head>
 <body>
-
+  <script src="js/navigation.js"></script>
   <div id="content">
-
-
+    <h3> Recommended Lecture Videos </h3>
+    <p> We recommend watching the following set of lecture videos:</p>
     <table align="center" border="1px" cellspacing="1" cellpadding="5" class="videos">
       <tbody>
         <tr><td class="lecture_number"></td><td class="lecture_title"><b>Lecture Title</b></td><td class="lecturer"><b>Lecturer</b></td><td><b class="notes">Semester</b></td></tr>
@@ -478,7 +477,7 @@ Cognitive Services (Defining Intelligence)
     <hr/>
     <br/>
     <h3>Per-Semester Video Archive</h3>
-    <p>The lecture videos from the most recent offerings  are posted below.</p>
+    <p>The lecture videos from the most recent offerings of CS188 are posted below.</p>
     <p>
       <a href="#Spring2014">Spring 2014 Lecture Videos</a><br/>
       <a href="#Fall2013">Fall 2013 Lecture Videos</a><br/>
@@ -1142,6 +1141,7 @@ Cognitive Services (Defining Intelligence)
   </div>
 </body>
 </html>
+
 
 
 ## Lecture Slides
