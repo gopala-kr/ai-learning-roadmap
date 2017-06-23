@@ -1143,7 +1143,6 @@ Cognitive Services (Defining Intelligence)
 </html>
 
 
-
 ## Lecture Slides
 <html>
 <head>
@@ -1153,7 +1152,7 @@ Cognitive Services (Defining Intelligence)
 </head>
 <body>
   <div id="content">
-    <p>Here is the complete set of lecture slides, including videos, and videos of demos run in lecture: <a href="Slides Lectures 1-26.tar.gz">Slides</a> [~3 GB].</p>
+    <p>Here is the complete set of lecture slides, including videos, and videos of demos run in lecture: <a href="http://ai.berkeley.edu/slides/CS188%20Slides%20Lectures%201-26.tar.gz">Slides</a> [~3 GB].</p>
     <p>The list below contains all the lecture powerpoint slides:
       <ul>
         <li><a href="http://ai.berkeley.edu/slides/Lecture%201%20--%20Introduction/SP14%20CS188%20Lecture%201%20--%20Introduction.pptx">Lecture 1: Introduction</a></li>
@@ -1188,6 +1187,8 @@ Cognitive Services (Defining Intelligence)
   </div>
 </body>
 </html>
+
+
 
 
 ## Selected Research Papers
