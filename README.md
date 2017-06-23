@@ -235,6 +235,7 @@ Cognitive Services (Defining Intelligence)
 
 ## Selected Research Papers
 
+* [How to do Research At the MIT AI Lab](https://people.cs.umass.edu/~emery/misc/how-to.pdf)
 * [A Roadmap towards Machine Intelligence](https://arxiv.org/pdf/1511.08130.pdf)
 * [Collaborative Filtering with Recurrent Neural Networks (2016)](https://www.semanticscholar.org/paper/Collaborative-Filtering-with-Recurrent-Neural-Devooght-Bersini/2bef60fb284440a7b28b2bbf48aca9ddf136dac6)
 * [Wide & Deep Learning for Recommender Systems (2016)](https://www.semanticscholar.org/paper/Wide-Deep-Learning-for-Recommender-Systems-Cheng-Koc/657fbf29ea0b4904a3e98d1556f9acf38dddae5f)
