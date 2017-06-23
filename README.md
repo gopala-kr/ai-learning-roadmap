@@ -1156,32 +1156,32 @@ Cognitive Services (Defining Intelligence)
     <p>Here is the complete set of lecture slides, including videos, and videos of demos run in lecture: <a href="Slides Lectures 1-26.tar.gz">Slides</a> [~3 GB].</p>
     <p>The list below contains all the lecture powerpoint slides:
       <ul>
-        <li><a href="slides/Lecture 1 -- Introduction/SP14 CS188 Lecture 1 -- Introduction.pptx">Lecture 1: Introduction</a></li>
-        <li><a href="slides/Lecture 2 -- Uninformed Search/SP14 CS188 Lecture 2 -- Uninformed Search.pptx">Lecture 2: Uninformed Search</a></li>
-        <li><a href="slides/Lecture 3 -- Informed Search/SP14 CS188 Lecture 3 -- Informed Search.pptx">Lecture 3: Informed Search</a></li>
-        <li><a href="slides/Lecture 4 -- CSPs I/SP14 CS188 Lecture 4 -- CSPs I.pptx">Lecture 4: CSPs I</a></li>
-        <li><a href="slides/Lecture 5 -- CSPs II/SP14 CS188 Lecture 5 -- CSPs II.pptx">Lecture 5: CSPs II</a></li>
-        <li><a href="slides/Lecture 6 -- Adversarial Search/SP14 CS188 Lecture 6 -- Adversarial Search.pptx">Lecture 6: Adversarial Search</a></li>
-        <li><a href="slides/Lecture 7 -- Expectimax Search and Utilities/SP14 CS188 Lecture 7 -- Expectimax Search and Utilities.pptx">Lecture 7: Expectimax Search and Utilities</a></li>
-        <li><a href="slides/Lecture 8 -- MDPs I/SP14 CS188 Lecture 8 -- MDPs I.pptx">Lecture 8: MDPs I</a></li>
-        <li><a href="slides/Lecture 9 -- MDPs II/SP14 CS188 Lecture 9 -- MDPs II.pptx">Lecture 9: MDPs II</a></li>
-        <li><a href="slides/Lecture 10 -- Reinforcement Learning I/SP14 CS188 Lecture 10 -- Reinforcement Learning I.pptx">Lecture 10: Reinforcement Learning I</a></li>
-        <li><a href="slides/Lecture 11 -- Reinforcement Learning II/SP14 CS188 Lecture 11 -- Reinforcement Learning II.pptx">Lecture 11: Reinforcement Learning II</a></li>
-        <li><a href="slides/Lecture 12 -- Probability/SP14 CS188 Lecture 12 -- Probability.pptx">Lecture 12: Probability</a></li>
-        <li><a href="slides/Lecture 13 -- Markov Models/SP14 CS188 Lecture 13 -- Markov Models.pptx">Lecture 13: Markov Models</a></li>
-        <li><a href="slides/Lecture 14 -- HMMs/SP14 CS188 Lecture 14 -- Hidden Markov Models.pptx">Lecture 14: Hidden Markov Models</a></li>
-        <li><a href="slides/Lecture 15 -- Particle Filters and Applications of HMMs/SP14 CS188 Lecture 15 -- Particle Filters and Applications of HMMs.pptx">Lecture 15: Particle Filters and Applications of HMMs</a></li>
-        <li><a href="slides/Lecture 16 -- Bayes Nets I Representation/SP14 CS188 Lecture 16 -- Bayes Nets.pptx">Lecture 16: Bayes Nets I: Representation</a></li>
-        <li><a href="slides/Lecture 17 -- Bayes Nets II Independence/SP14 CS188 Lecture 17 -- Bayes Nets II Independence.pptx">Lecture 17: Bayes Nets II: Independence</a></li>
-        <li><a href="slides/Lecture 18 -- Bayes Nets III Inference/SP14 cs188 Lecture 18 -- Bayes Nets III Inference.pptx">Lecture 18: Bayes Nets III: Inference</a></li>
-        <li><a href="slides/Lecture 19 -- Bayes Net IV Sampling/SP14 CS188 Lecture 19 -- Bayes Nets IV Sampling.pptx">Lecture 19: Bayes Nets IV: Sampling</a></li>
-        <li><a href="slides/Lecture 20 -- Decision Diagrams and Value of Perfect Information/SP14 CS188 Lecture 20 -- Decision Diagrams and VPI.pptx">Lecture 20: Decision Diagrams and VPI</a></li>
-        <li><a href="slides/Lecture 21 -- Naive Bayes/SP14 CS188 Lecture 21 -- Naive Bayes.pptx">Lecture 21: Naive Bayes</a></li>
-        <li><a href="slides/Lecture 22 -- Perceptron/SP14 CS188 Lecture 22 -- Perceptron.pptx">Lecture 22: Perceptron</a></li>
-        <li><a href="slides/Lecture 23 -- Kernels and Clustering/SP14 CS188 Lecture 23 -- Kernels and Clustering.pptx">Lecture 23: Kernels and Clustering</a></li>
-        <li><a href="slides/Lecture 24 -- Advanced Applications (NLP, Games, Cars)/SP14 CS188 Lecture 24 -- Advanced Applications (NLP, Games, Cars).pptx">Lecture 24: Advanced Applications (NLP, Games, Cars)</a></li>
-        <li><a href="slides/Lecture 25 -- Advanced Applications (Computer Vision, Robotics)/SP14 CS188 Lecture 25 -- Advanced Applications (Computer Vision and Robotics).pptx">Lecture 25: Advanced Applications (Computer Vision and Robotics)</a></li>
-        <li><a href="slides/Lecture 26 -- Conclusion/SP14 CS188 Lecture 26 -- Conclusion.pptx">Lecture 26: Conclusion</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%201%20--%20Introduction/SP14%20CS188%20Lecture%201%20--%20Introduction.pptx">Lecture 1: Introduction</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx">Lecture 2: Uninformed Search</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%203%20--%20Informed%20Search/SP14%20CS188%20Lecture%203%20--%20Informed%20Search.pptx">Lecture 3: Informed Search</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%204%20--%20CSPs%20I/SP14%20CS188%20Lecture%204%20--%20CSPs%20I.pptx">Lecture 4: CSPs I</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%205%20--%20CSPs%20II/SP14%20CS188%20Lecture%205%20--%20CSPs%20II.pptx">Lecture 5: CSPs II</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%206%20--%20Adversarial%20Search/SP14%20CS188%20Lecture%206%20--%20Adversarial%20Search.pptx">Lecture 6: Adversarial Search</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%207%20--%20Expectimax%20Search%20and%20Utilities/SP14%20CS188%20Lecture%207%20--%20Expectimax%20Search%20and%20Utilities.pptx">Lecture 7: Expectimax Search and Utilities</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%208%20--%20MDPs%20I/SP14%20CS188%20Lecture%208%20--%20MDPs%20I.pptx">Lecture 8: MDPs I</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%209%20--%20MDPs%20II/SP14%20CS188%20Lecture%209%20--%20MDPs%20II.pptx">Lecture 9: MDPs II</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2010%20--%20Reinforcement%20Learning%20I/SP14%20CS188%20Lecture%2010%20--%20Reinforcement%20Learning%20I.pptx">Lecture 10: Reinforcement Learning I</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2011%20--%20Reinforcement%20Learning%20II/SP14%20CS188%20Lecture%2011%20--%20Reinforcement%20Learning%20II.pptx">Lecture 11: Reinforcement Learning II</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2012%20--%20Probability/SP14%20CS188%20Lecture%2012%20--%20Probability.pptx">Lecture 12: Probability</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2013%20--%20Markov%20Models/SP14%20CS188%20Lecture%2013%20--%20Markov%20Models.pptx">Lecture 13: Markov Models</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2014%20--%20HMMs/SP14%20CS188%20Lecture%2014%20--%20Hidden%20Markov%20Models.pptx">Lecture 14: Hidden Markov Models</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2015%20--%20Particle%20Filters%20and%20Applications%20of%20HMMs/SP14%20CS188%20Lecture%2015%20--%20Particle%20Filters%20and%20Applications%20of%20HMMs.pptx">Lecture 15: Particle Filters and Applications of HMMs</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2016%20--%20Bayes%20Nets%20I%20Representation/SP14%20CS188%20Lecture%2016%20--%20Bayes%20Nets.pptx">Lecture 16: Bayes Nets I: Representation</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2017%20--%20Bayes%20Nets%20II%20Independence/SP14%20CS188%20Lecture%2017%20--%20Bayes%20Nets%20II%20Independence.pptx">Lecture 17: Bayes Nets II: Independence</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2018%20--%20Bayes%20Nets%20III%20Inference/SP14%20cs188%20Lecture%2018%20--%20Bayes%20Nets%20III%20Inference.pptx">Lecture 18: Bayes Nets III: Inference</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2019%20--%20Bayes%20Net%20IV%20Sampling/SP14%20CS188%20Lecture%2019%20--%20Bayes%20Nets%20IV%20Sampling.pptx">Lecture 19: Bayes Nets IV: Sampling</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2020%20--%20Decision%20Diagrams%20and%20Value%20of%20Perfect%20Information/SP14%20CS188%20Lecture%2020%20--%20Decision%20Diagrams%20and%20VPI.pptx">Lecture 20: Decision Diagrams and VPI</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2021%20--%20Naive%20Bayes/SP14%20CS188%20Lecture%2021%20--%20Naive%20Bayes.pptx">Lecture 21: Naive Bayes</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2022%20--%20Perceptron/SP14%20CS188%20Lecture%2022%20--%20Perceptron.pptx">Lecture 22: Perceptron</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2023%20--%20Kernels%20and%20Clustering/SP14%20CS188%20Lecture%2023%20--%20Kernels%20and%20Clustering.pptx">Lecture 23: Kernels and Clustering</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2024%20--%20Advanced%20Applications%20(NLP,%20Games,%20Cars)/SP14%20CS188%20Lecture%2024%20--%20Advanced%20Applications%20(NLP,%20Games,%20Cars).pptx">Lecture 24: Advanced Applications (NLP, Games, Cars)</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2025%20--%20Advanced%20Applications%20(Computer%20Vision,%20Robotics)/SP14%20CS188%20Lecture%2025%20--%20Advanced%20Applications%20(Computer%20Vision%20and%20Robotics).pptx">Lecture 25: Advanced Applications (Computer Vision and Robotics)</a></li>
+        <li><a href="http://ai.berkeley.edu/slides/Lecture%2026%20--%20Conclusion/SP14%20CS188%20Lecture%2026%20--%20Conclusion.pptx">Lecture 26: Conclusion</a></li>
       </ul>
     </p>
     <p>The source files for all live in-lecture demos are being prepared from Berkeley AI for release</p>
