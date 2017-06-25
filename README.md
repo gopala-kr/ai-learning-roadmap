@@ -1192,7 +1192,8 @@ Cognitive Services (Defining Intelligence)
 
 
 ## Selected Research Papers
-* [latest arxiv papers](http://www.arxiv-sanity.com/)
+* [Latest arxiv paper submissionson AI](http://www.arxiv-sanity.com/)
+* [Peter Norvig-Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 * [How to do Research At the MIT AI Lab](https://people.cs.umass.edu/~emery/misc/how-to.pdf)
 * [A Roadmap towards Machine Intelligence](https://arxiv.org/pdf/1511.08130.pdf)
 * [Collaborative Filtering with Recurrent Neural Networks (2016)](https://www.semanticscholar.org/paper/Collaborative-Filtering-with-Recurrent-Neural-Devooght-Bersini/2bef60fb284440a7b28b2bbf48aca9ddf136dac6)
