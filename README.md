@@ -1230,6 +1230,37 @@ Frameworks](https://arxiv.org/pdf/1511.06435.pdf)
 
 <Enter>
 
+## The Many Tribes of Artificial Intelligence
+
+Source:https://medium.com/intuitionmachine/infographic-best-practices-in-training-deep-learning-networks-b8a3df1db53
+
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/1*_VWpxv0I6OUAau9tyT0Kng.jpeg">
+  <br/>
+</p>
+
+<Enter>
+
+## The Deep Learning Roadmap
+
+Source:https://medium.com/intuitionmachine/the-deep-learning-roadmap-f0b4cac7009a
+
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/800/1*NsH0YPjt6FbtZOxmGy8DTQ.jpeg">
+  <br/>
+</p>
+<Enter>
+
+## Best Practices for Training Deep Learning Networks
+
+Source: https://medium.com/intuitionmachine/infographic-best-practices-in-training-deep-learning-networks-b8a3df1db53
+
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/1000/1*8Nh3yrF94YtpQUoTQ13sjQ.jpeg">
+  <br/>
+</p>
+
+
 ## ML/DL Cheatsheets
 
 ### Neural Network Architectures
