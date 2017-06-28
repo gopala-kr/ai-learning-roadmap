@@ -1,12 +1,11 @@
 
 >   Lists of all AI related learning materials and practical tools to get started with AI apps
 
-
-
+******************
 ## Design Thinking – An Introduction
 * [Stanford's virtual Crash Course in Design Thinking](https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking#gear-up)
 
-
+******************
 ## Amazon Web Services Learning Material
 
 * [AWS AI Session](https://jr-presentations.s3.amazonaws.com/AI-Presentation-Master-720p60FPS.mp4)– The session provides an overview of all Amazon AI technology offerings (Lex, Polly, Rekognition, ML, and Deep Learning AMI) 
@@ -63,7 +62,7 @@ Take your skills to the next level with fundamental, advanced, and expert level 
 * [Working with AWS CodeCommit on Windows](https://amazon.qwiklabs.com/searches/lab?keywords=working%20with%20aws%20codecommit%20on%20windows)
 * [Working with Amazon DynamoDB](https://amazon.qwiklabs.com/searches/lab?keywords=Working%20with%20Amazon%20DynamoDB)
 
-
+******************
 
 ## Google Cloud - Learning Material
 
@@ -120,7 +119,7 @@ The codelab provides common cloud developer experience as follows:
 
 * [Big Data & Machine Learning @ Google Cloud Next '17](https://www.youtube.com/playlist?list=PLIivdWyY5sqLq-eM4W2bIgbrpAsP5aLtZ) - A collection of 49 videos
 
-
+******************
 ## IBM Watson Learning Material
 
 (Contributions are welcome in this space)
@@ -134,7 +133,7 @@ The codelab provides common cloud developer experience as follows:
 
 [UCI datasets](https://archive.ics.uci.edu/ml/datasets/)
 
-
+******************
 
 ## Microsoft Chat Bots Learning Material
 
@@ -231,7 +230,7 @@ Cognitive Services (Defining Intelligence)
   * <Your Path>\bot-education\Student-Resources\BOTs\Node\bot-hello
 * Review and test in the emulator the “bot-recognizers” from
   * <Your Path>\bot-education\Student-Resources\BOTs\Node\bot-recognizers
-
+******************
 ## Lecture Videos 
 <html>
 <head>
@@ -476,6 +475,7 @@ Cognitive Services (Defining Intelligence)
     <br/>
     <hr/>
     <br/>
+    ******************
     <h3>Per-Semester Video Archive(Berkeley)</h3>
     <p>The lecture videos from the most recent offerings are posted below.</p>
     <p>
@@ -647,6 +647,7 @@ Cognitive Services (Defining Intelligence)
       </tbody>
     </table>
     <br/><br/>
+    ******************
     <a name="Fall2013"></a><h4> Fall 2013 </h4>
     <table align="center" border="1px" cellspacing="1" cellpadding="5" class="videos">
       <tbody>
@@ -810,6 +811,7 @@ Cognitive Services (Defining Intelligence)
       </tbody>
     </table>
     <br/>
+    ******************
     <a name="Spring2013"></a><h4> Spring 2013 </h4>
     <table align="center" border="1px" cellspacing="1" cellpadding="5" class="videos">
       <tbody>
@@ -973,6 +975,7 @@ Cognitive Services (Defining Intelligence)
       </tbody>
     </table>
     <br/>
+    ******************
     <a name="Fall2012"></a><h4> Fall 2012 </h4>
     <table align="center" border="1px" cellspacing="1" cellpadding="5" class="videos">
       <tbody>
@@ -1141,7 +1144,7 @@ Cognitive Services (Defining Intelligence)
   </div>
 </body>
 </html>
-
+******************
 
 ## Lecture Slides
 <html>
@@ -1189,7 +1192,7 @@ Cognitive Services (Defining Intelligence)
 </html>
 
 
-
+******************
 
 ## Selected Research Papers
 * [Latest arxiv paper submissionson AI](http://www.arxiv-sanity.com/)
@@ -1228,7 +1231,7 @@ Frameworks](https://arxiv.org/pdf/1511.06435.pdf)
 * [AI-Powered Social Bots](https://arxiv.org/pdf/1706.05143v1.pdf)(16 Jun 2017)
 
 
-<Enter>
+******************
 
 ## The Many Tribes of Artificial Intelligence
 
@@ -1238,8 +1241,7 @@ Source:https://medium.com/intuitionmachine/infographic-best-practices-in-trainin
   <img src="https://cdn-images-1.medium.com/max/2000/1*_VWpxv0I6OUAau9tyT0Kng.jpeg">
   <br/>
 </p>
-
-<Enter>
+******************
 
 ## The Deep Learning Roadmap
 
@@ -1249,7 +1251,7 @@ Source:https://medium.com/intuitionmachine/the-deep-learning-roadmap-f0b4cac7009
   <img src="https://cdn-images-1.medium.com/max/800/1*NsH0YPjt6FbtZOxmGy8DTQ.jpeg">
   <br/>
 </p>
-<Enter>
+******************
 
 ## Best Practices for Training Deep Learning Networks
 
@@ -1272,7 +1274,7 @@ Source: http://www.asimovinstitute.org/neural-network-zoo/
   <br/>
 </p>
 
-<Enter>
+******************
 
 ### Microsoft Azure Algorithm Flowchart
 Source: https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet
@@ -1281,7 +1283,8 @@ Source: https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning
   <img src="https://docs.microsoft.com/en-us/azure/machine-learning/media/machine-learning-algorithm-cheat-sheet/machine-learning-algorithm-cheat-sheet-small_v_0_6-01.png">
   <br/>
 </p>
-<Enter>
+
+******************
 
 ### SAS Algorithm Flowchart
 Source: http://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/
@@ -1291,6 +1294,7 @@ Source: http://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-lear
   <br/>
 </p>
 <Enter>
+******************
 
 ### Algorithm Summary
 Source: http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
@@ -1300,7 +1304,7 @@ Source: http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
   <br/>
 </p>
 <Enter>
-
+******************
 Source: http://thinkbigdata.in/best-known-machine-learning-algorithms-infographic/
 
 <p align="center">
@@ -1308,7 +1312,7 @@ Source: http://thinkbigdata.in/best-known-machine-learning-algorithms-infographi
   <br/>
 </p>
 <Enter>
-
+******************
 ### Algorithm Pro/Con
 Source: https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend
 
@@ -1318,9 +1322,10 @@ Source: https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-
   <br/>
 </p>
 <Enter>
+******************
 
 ## Python
-
+******************
 ### Algorithms
 Source: https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/
 
@@ -1329,6 +1334,7 @@ Source: https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-lea
   <br/>
 </p>
 <Enter>
+******************
 
 ### Python Basics
 Source: http://datasciencefree.com/python.pdf
@@ -1338,7 +1344,7 @@ Source: http://datasciencefree.com/python.pdf
   <img src="https://cdn-images-1.medium.com/max/800/1*L9O-gn244nJRMIi3RsDbag.png">
   <br/>
 </p>
-<Enter>
+******************
 
 Source: https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.0x1rxEA
 
@@ -1346,7 +1352,7 @@ Source: https://www.datacamp.com/community/tutorials/python-data-science-cheat-s
   <img src="https://cdn-images-1.medium.com/max/800/1*2Z6_OZGupydHyEajtQE0Gg.png">
   <br/>
 </p>
-<Enter>
+******************
 
 ### Numpy
 Source: https://www.dataquest.io/blog/numpy-cheat-sheet/
@@ -1355,7 +1361,7 @@ Source: https://www.dataquest.io/blog/numpy-cheat-sheet/
   <img src="https://cdn-images-1.medium.com/max/800/1*A8KkRtC0V_jvvl1_W9Tqlg.png">
   <br/>
 </p>
-<Enter>
+******************
 
 Source: http://datasciencefree.com/numpy.pdf
 
@@ -1363,7 +1369,7 @@ Source: http://datasciencefree.com/numpy.pdf
   <img src="https://cdn-images-1.medium.com/max/800/1*pHJR1yXNHnLk3ESgGAFfNg.png">
   <br/>
 </p>
-<Enter>
+******************
 
 Source: https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V6CE
 
@@ -1372,7 +1378,7 @@ Source: https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V
   <br/>
 </p>
 
-<Enter>
+******************
 
 Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb
 
@@ -1380,7 +1386,7 @@ Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/maste
   <img src="https://cdn-images-1.medium.com/max/800/1*8qD6nI16gYhRiGZZ3SJCuA.png">
   <br/>
 </p>
-<Enter>
+******************
 
 ### Pandas
 Source: http://datasciencefree.com/pandas.pdf
@@ -1389,7 +1395,7 @@ Source: http://datasciencefree.com/pandas.pdf
   <img src="https://cdn-images-1.medium.com/max/800/1*TsIzQI5WgXe523rReAmioQ.png">
   <br/>
 </p>
-<Enter>
+******************
 
 Source: https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.S4P4T=U
 
@@ -1397,7 +1403,7 @@ Source: https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.S4P
   <img src="https://cdn-images-1.medium.com/max/800/1*Sn-9QZAgsITTRxahIA0bVg.png">
   <br/>
 </p>
-<Enter>
+******************
 
 Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas.ipynb
 
@@ -1407,7 +1413,7 @@ Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/maste
   <br/>
 </p>
 
-<Enter>
+******************
 
 ### Matplotlib
 Source: https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet
@@ -1417,7 +1423,7 @@ Source: https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet
   <br/>
 </p>
 
-<Enter>
+******************
 
 Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib.ipynb
 
@@ -1426,7 +1432,7 @@ Source: https://github.com/donnemartin/data-science-ipython-notebooks/blob/maste
   <br/>
 </p>
 
-<Enter>
+******************
 
 ### Scikit Learn
 Source: https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.fZ2A1Jk
@@ -1436,7 +1442,7 @@ Source: https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.fZ2A
   <br/>
 </p>
 
-<Enter>
+******************
 
 Source: http://peekaboo-vision.blogspot.de/2013/01/machine-learning-cheat-sheet-for-scikit.html
 
@@ -1446,7 +1452,7 @@ Source: http://peekaboo-vision.blogspot.de/2013/01/machine-learning-cheat-sheet-
   <br/>
 </p>
 
-<Enter>
+******************
 
 Source: https://github.com/rcompton/ml_cheat_sheet/blob/master/supervised_learning.ipynb
 
@@ -1454,7 +1460,7 @@ Source: https://github.com/rcompton/ml_cheat_sheet/blob/master/supervised_learni
   <img src="https://cdn-images-1.medium.com/max/800/1*S84WJ6WyCHUEEr9iFOXa6w.png">
   <br/>
 </p>
-<Enter>
+******************
 
 ### Tensorflow
 Source: https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/1_Introduction/basic_operations.ipynb
@@ -1464,7 +1470,7 @@ Source: https://github.com/aymericdamien/TensorFlow-Examples/blob/master/noteboo
   <br/>
 </p>
 
-<Enter>
+******************
 
 ### Pytorch
 Source: https://github.com/bfortuner/pytorch-cheatsheet
@@ -1473,7 +1479,7 @@ Source: https://github.com/bfortuner/pytorch-cheatsheet
   <img src="https://cdn-images-1.medium.com/max/800/1*52LeYwCUN9G6MvACLcXRJw.png">
   <br/>
 </p>
-<Enter>
+******************
 
 ## Math
 
@@ -1484,7 +1490,7 @@ Source: http://www.wzchen.com/s/probability_cheatsheet.pdf
   <img src="https://cdn-images-1.medium.com/max/800/1*wAXVlse7LpdKZLpj6DHF2A.png">
   <br/>
 </p>
-<Enter>
+******************
 
 ### Linear Algebra
 Source: https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
@@ -1494,8 +1500,7 @@ Source: https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
   <img src="https://cdn-images-1.medium.com/max/800/1*d2bvBV6XuhjZ9iZ0OogxQw.png">
   <br/>
 </p>
-
-<Enter>
+******************
 
 ### Statistics
 Source: http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
@@ -1505,7 +1510,7 @@ Source: http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
   <br/>
 </p>
 
-<Enter>
+******************
 
 ### Calculus
 Source: http://tutorial.math.lamar.edu/getfile.aspx?file=B,41,N
@@ -1515,8 +1520,9 @@ Source: http://tutorial.math.lamar.edu/getfile.aspx?file=B,41,N
   <br/>
 </p>
 
-<Enter>
-<Enter>
+******************
+******************
+******************
 
 
 
